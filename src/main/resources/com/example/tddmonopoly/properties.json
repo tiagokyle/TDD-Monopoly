@@ -1,0 +1,480 @@
+{
+    "properties": [
+        {
+            "streets": [
+                {
+                    "brown": [
+                        {
+                            "id": 1,
+                            "streetName": "Witherbed Lane",
+                            "price": 60,
+                            "rent": {
+                                "zero": 2,
+                                "one": 10,
+                                "two": 30,
+                                "three": 90,
+                                "four": 160,
+                                "hotel": 250
+                            },
+                            "mortgage": 30,
+                            "upgradeCost": 50
+                        },
+                        {
+                            "id": 3,
+                            "streetName": "Calabrese",
+                            "price": 60,
+                            "rent": {
+                                "zero": 4,
+                                "one": 20,
+                                "two": 60,
+                                "three": 180,
+                                "four": 320,
+                                "hotel": 450
+                            },
+                            "mortgage": 30,
+                            "upgradeCost": 50
+                        }
+                    ],
+                    "lightBlue": [
+                        {
+                            "id": 6,
+                            "streetName": "Persian Drive",
+                            "price": 100,
+                            "rent": {
+                                "zero": 6,
+                                "one": 30,
+                                "two": 90,
+                                "three": 270,
+                                "four": 400,
+                                "hotel": 550
+                            },
+                            "mortgage": 50,
+                            "upgradeCost": 50
+                        },
+                        {
+                            "id": 8,
+                            "streetName": "Brabant Close",
+                            "price": 100,
+                            "rent": {
+                                "zero": 6,
+                                "one": 30,
+                                "two": 90,
+                                "three": 270,
+                                "four": 400,
+                                "hotel": 550
+                            },
+                            "mortgage": 50,
+                            "upgradeCost": 50
+                        },
+                        {
+                            "id": 9,
+                            "streetName": "Connemara Crescent",
+                            "price": 120,
+                            "rent": {
+                                "zero": 8,
+                                "one": 40,
+                                "two": 100,
+                                "three": 300,
+                                "four": 450,
+                                "hotel": 600
+                            },
+                            "mortgage": 60,
+                            "upgradeCost": 50
+                        }
+                    ],
+                    "pink": [
+                        {
+                            "id": 11,
+                            "streetName": "Java Drive",
+                            "price": 140,
+                            "rent": {
+                                "zero": 10,
+                                "one": 50,
+                                "two": 150,
+                                "three": 450,
+                                "four": 625,
+                                "hotel": 750
+                            },
+                            "mortgage": 70,
+                            "upgradeCost": 100
+                        },
+                        {
+                            "id": 13,
+                            "streetName": "Mustang Avenue",
+                            "price": 140,
+                            "rent": {
+                                "zero": 10,
+                                "one": 50,
+                                "two": 150,
+                                "three": 450,
+                                "four": 625,
+                                "hotel": 750
+                            },
+                            "mortgage": 70,
+                            "upgradeCost": 100
+                        },
+                        {
+                            "id": 14,
+                            "streetName": "Hispano Avenue",
+                            "price": 160,
+                            "rent": {
+                                "zero": 12,
+                                "one": 60,
+                                "two": 180,
+                                "three": 500,
+                                "four": 700,
+                                "hotel": 900
+                            },
+                            "mortgage": 80,
+                            "upgradeCost": 100
+                        }
+                    ],
+                    "orange": [
+                        {
+                            "id": 16,
+                            "streetName": "Sweethills Crescent",
+                            "price": 180,
+                            "rent": {
+                                "zero": 14,
+                                "one": 70,
+                                "two": 200,
+                                "three": 550,
+                                "four": 750,
+                                "hotel": 950
+                            },
+                            "mortgage": 90,
+                            "upgradeCost": 100
+                        },
+                        {
+                            "id": 18,
+                            "streetName": "Rookery Avenue",
+                            "price": 180,
+                            "rent": {
+                                "zero": 14,
+                                "one": 70,
+                                "two": 200,
+                                "three": 550,
+                                "four": 750,
+                                "hotel": 950
+                            },
+                            "mortgage": 90,
+                            "upgradeCost": 100
+                        },
+                        {
+                            "id": 19,
+                            "streetName": "Skylark Meadows",
+                            "price": 200,
+                            "rent": {
+                                "zero": 16,
+                                "one": 80,
+                                "two": 220,
+                                "three": 600,
+                                "four": 800,
+                                "hotel": 1000
+                            },
+                            "mortgage": 100,
+                            "upgradeCost": 100
+                        }
+                    ],
+                    "red": [
+                        {
+                            "id": 21,
+                            "streetName": "Leafy Lane",
+                            "price": 220,
+                            "rent": {
+                                "zero": 18,
+                                "one": 90,
+                                "two": 250,
+                                "three": 700,
+                                "four": 875,
+                                "hotel": 1050
+                            },
+                            "mortgage": 110,
+                            "upgradeCost": 150
+                        },
+                        {
+                            "id": 23,
+                            "streetName": "Yew Tree Drive",
+                            "price": 220,
+                            "rent": {
+                                "zero": 18,
+                                "one": 90,
+                                "two": 250,
+                                "three": 700,
+                                "four": 875,
+                                "hotel": 1050
+                            },
+                            "mortgage": 110,
+                            "upgradeCost": 150
+                        },
+                        {
+                            "id": 24,
+                            "streetName": "Thyme Avenue",
+                            "price": 240,
+                            "rent": {
+                                "zero": 20,
+                                "one": 100,
+                                "two": 300,
+                                "three": 750,
+                                "four": 925,
+                                "hotel": 1100
+                            },
+                            "mortgage": 120,
+                            "upgradeCost": 150
+                        }
+                    ],
+                    "yellow": [
+                        {
+                            "id": 26,
+                            "streetName": "Coppice View",
+                            "price": 260,
+                            "rent": {
+                                "zero": 22,
+                                "one": 110,
+                                "two": 330,
+                                "three": 800,
+                                "four": 975,
+                                "hotel": 1150
+                            },
+                            "mortgage": 130,
+                            "upgradeCost": 150
+                        },
+                        {
+                            "id": 27,
+                            "streetName": "Angelica Way",
+                            "price": 260,
+                            "rent": {
+                                "zero": 22,
+                                "one": 110,
+                                "two": 330,
+                                "three": 800,
+                                "four": 975,
+                                "hotel": 1150
+                            },
+                            "mortgage": 130,
+                            "upgradeCost": 150
+                        },
+                        {
+                            "id": 29,
+                            "streetName": "Silver Birch Way",
+                            "price": 280,
+                            "rent": {
+                                "zero": 24,
+                                "one": 120,
+                                "two": 360,
+                                "three": 850,
+                                "four": 1025,
+                                "hotel": 1200
+                            },
+                            "mortgage": 140,
+                            "upgradeCost": 150
+                        }
+                    ],
+                    "green": [
+                        {
+                            "id": 31,
+                            "streetName": "Marjoram Way",
+                            "price": 300,
+                            "rent": {
+                                "zero": 26,
+                                "one": 130,
+                                "two": 390,
+                                "three": 900,
+                                "four": 1100,
+                                "hotel": 1150
+                            },
+                            "mortgage": 150,
+                            "upgradeCost": 200
+                        },
+                        {
+                            "id": 32,
+                            "streetName": "Bluebell Way",
+                            "price": 300,
+                            "rent": {
+                                "zero": 26,
+                                "one": 130,
+                                "two": 390,
+                                "three": 900,
+                                "four": 1100,
+                                "hotel": 1150
+                            },
+                            "mortgage": 150,
+                            "upgradeCost": 200
+                        },
+                        {
+                            "id": 34,
+                            "streetName": "Saffron Way",
+                            "price": 320,
+                            "rent": {
+                                "zero": 28,
+                                "one": 150,
+                                "two": 450,
+                                "three": 1000,
+                                "four": 1200,
+                                "hotel": 1400
+                            },
+                            "mortgage": 160,
+                            "upgradeCost": 200
+                        }
+                    ],
+                    "blue": [
+                        {
+                            "id": 37,
+                            "streetName": "Whiteley Way",
+                            "price": 350,
+                            "rent": {
+                                "zero": 35,
+                                "one": 175,
+                                "two": 500,
+                                "three": 1100,
+                                "four": 1300,
+                                "hotel": 1500
+                            },
+                            "mortgage": 175,
+                            "upgradeCost": 200
+                        },
+                        {
+                            "id": 39,
+                            "streetName": "Parkway",
+                            "price": 400,
+                            "rent": {
+                                "zero": 50,
+                                "one": 200,
+                                "two": 600,
+                                "three": 1400,
+                                "four": 1700,
+                                "hotel": 2000
+                            },
+                            "mortgage": 200,
+                            "upgradeCost": 200
+                        }
+                    ],
+                    "stations": [
+                        {
+                            "id": 5,
+                            "streetName": "Swanwick Station",
+                            "price": 200,
+                            "rent": {
+                                "one": 25,
+                                "two": 50,
+                                "three": 100,
+                                "four": 200
+                            },
+                            "mortgage": 100
+                        },
+                        {
+                            "id": 15,
+                            "streetName": "Bursledon Station",
+                            "price": 200,
+                            "rent": {
+                                "one": 25,
+                                "two": 50,
+                                "three": 100,
+                                "four": 200
+                            },
+                            "mortgage": 100
+                        },
+                        {
+                            "id": 25,
+                            "streetName": "Botley Station",
+                            "price": 200,
+                            "rent": {
+                                "one": 25,
+                                "two": 50,
+                                "three": 100,
+                                "four": 200
+                            },
+                            "mortgage": 100
+                        },
+                        {
+                            "id": 35,
+                            "streetName": "Fareham Station",
+                            "price": 200,
+                            "rent": {
+                                "one": 25,
+                                "two": 50,
+                                "three": 100,
+                                "four": 200
+                            },
+                            "mortgage": 100
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "utilities": [
+                {
+                    "id": 2,
+                    "streetName": "Community Chest",
+                    "price": 0
+                },
+                {
+                    "id": 4,
+                    "streetName": "Income Tax",
+                    "price": 200
+                },
+                {
+                    "id": 7,
+                    "streetName": "Chance",
+                    "price": 0
+                },
+                {
+                    "id": 12,
+                    "streetName": "Income Tax",
+                    "price": 200
+                },
+                {
+                    "id": 17,
+                    "streetName": "Community Chest",
+                    "price": 0
+                },
+                {
+                    "id": 22,
+                    "streetName": "Chance",
+                    "price": 0
+                },
+                {
+                    "id": 28,
+                    "streetName": "Income Tax",
+                    "price": 200
+                },
+                {
+                    "id": 33,
+                    "streetName": "Community Chest",
+                    "price": 0
+                },
+                {
+                    "id": 36,
+                    "streetName": "Chance",
+                    "price": 0
+                },
+                {
+                    "id": 38,
+                    "streetName": "Super Tax",
+                    "price": 100
+                }
+            ]
+        },
+        {
+            "corners": [
+                {
+                    "id": 10,
+                    "streetName": "Jail"
+                },
+                {
+                    "id": 20,
+                    "streetName": "Free Parking"
+                },
+                {
+                    "id": 30,
+                    "streetName": "Go To Jail"
+                },
+                {
+                    "id": 40,
+                    "streetName": "Go"
+                }
+            ]
+        }
+    ]
+}
